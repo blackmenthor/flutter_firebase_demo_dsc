@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570282450926",
+    "project_id": "fir-demo-dsc",
+    "storage_bucket": "fir-demo-dsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570282450926:android:345ac6deb25526778978ff",
+        "android_client_info": {
+          "package_name": "tech.arifandi.flutter_firebase_sample_dsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570282450926-3edpfj89hdia57l44gpnrqk9ripuo1ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhhl6TkYAamVKrN493mTKV3ATj5R4Un4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570282450926-3edpfj89hdia57l44gpnrqk9ripuo1ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

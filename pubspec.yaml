@@ -1,0 +1,28 @@
+name: flutter_firebase_sample_dsc
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.0.1
+  firebase_messaging: ^9.0.0
+  firebase_crashlytics: ^1.0.0
+  cloud_firestore: ^1.0.1
+  firebase_remote_config: ^0.9.0-dev.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
