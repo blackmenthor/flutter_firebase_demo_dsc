@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="tech.arifandi.flutter_firebase_sample_dsc">
    <application
+       android:name="androidx.multidex.MultiDexApplication"
         android:label="flutter_firebase_sample_dsc"
         android:icon="@mipmap/ic_launcher">
         <activity
